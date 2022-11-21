@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Wallace Souza</h1>
 <h3 align="center">Um Desenvolvedor Front-End Jr.</h3>
 
-- 🔭 Atualmente estou fazendo alguns projetos para praticar e demonstrar o que tenho estudado sobre o Desenvolvimento Front-end, como este **Simulador de Bateria**
+- 🔭 Atualmente estou fazendo alguns projetos para praticar e demonstrar o que tenho estudado sobre o Desenvolvimento Front-end, como este **Simulador de Bateria**.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/wallacebps](https://github.com/wallacebps)
 
